@@ -1,22 +1,5 @@
 # Python API Challenge
 
-Thank you for your interest in joining G Adventures. This challenge will allow
-us to further evaluate where you may potentially fit from a technical
-perspective. We're really excited to see what you can do.
-
-## Submission
-
-* Fork this project on Github. You will need to create an account if you don't already have one.
-* Complete the project as described, within your fork.
-* Push all of your changes to your fork on github and submit a pull request.
-* We will be notified of your pull request (or feel free to email us as well), and we'll review!
-
-If you don't wish to publicize your work on this challenge, you may simply send
-the completed project in an archived file to [recruiting_tech@gadventures.com](mailto:recruiting_tech@gadventures.com)
-
-We recommend using *Python 3* for all work you produce, but we're also happy if
-you use *Go*, or *Javascript*
-
 ## Project
 
 This project should not take you more than 4 hours. If you require extra time to
@@ -128,15 +111,3 @@ We've included a basic Django project and a `Departure` model with some fields,
 which you will consume.
 
 Otherwise, the rest is up to you!
-
-## Stuck?
-
-If you get stuck -- Please don't hesitate to email
-[recruiting_tech@gadventures.com](mailto:recruiting_tech@gadventures.com). We are looking for
-candidates who are not afraid to ask questions, and explore new ideas. Asking
-questions will not hurt your chances.
-
-## Thank You!
-
-We're excited for the opportunity to work with you. We look forward to seeing
-what you create.
